@@ -1,0 +1,1 @@
+def simulate_fiscal_impact(gdp, tax_rate): return gdp * (1 - tax_rate)
